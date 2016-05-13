@@ -1,0 +1,10 @@
+#package specification
+#Fri May 13 15:22:03 CST 2016
+masktools-version=3.0
+cn.gov.se-major=1
+cn.gov.se-base=internal
+cn.gov.se-aid=69636663637365696400000000000000
+jcop-packages=cn.gov.se
+cn.gov.se-minor=0
+cn.gov.se-clazzes=cn.gov.se.Main
+cn.gov.se.Main-aid=69636663637365696400000000000091
